@@ -1,7 +1,7 @@
 # 小桜帆（ReinaBot）2.0  
 ## 机器人简介  
 <p align="center">
-  <img src="https://github.com/kanbereina/ReinaBot-V2/blob/OBV11-NTQQBot/doc/Mahoro.png" width="200" height="200" alt="小桜帆">
+  <img src="https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/Mahoro.png" width="200" height="200" alt="小桜帆">
 </p>
 
 <div align="center">
@@ -75,7 +75,7 @@ _✨ “鹿乃”主题机器人 ✨_
 <br>
 
 <p align="center">
-  <img src="https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/Stereohonic.jpg" width="100" height="100" alt="鹿态">
+  <img src="https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/Stereohonic.jpg" width="100" height="100" alt="鹿态">
 </p>
 
 <div align="center">
@@ -115,13 +115,13 @@ _✨ “鹿乃”主题机器人 ✨_
 > - [x] 群聊独立推送选项设定
 
 ### 推送效果预览：
-> **[点击此处以查看](https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/md_files/BambinoStatus_Preview.md)**
+> **[点击此处以查看](https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/md_files/BambinoStatus_Preview.md)**
 
 ---
 <br>
 
 <p align="center">
-  <img src="https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/One.jpg" width="100" height="100" alt="鹿歌">
+  <img src="https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/One.jpg" width="100" height="100" alt="鹿歌">
 </p>
 
 <div align="center">
@@ -155,13 +155,13 @@ _✨ “鹿乃”主题机器人 ✨_
 > - [x] 杜比全景声
 
 ### 音频转换效果预览：
-> **[点击此处以查看](https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/md_files/AudioConverter_Preview.md)**
+> **[点击此处以查看](https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/md_files/AudioConverter_Preview.md)**
 
 ---
 <br>
 
 <p align="center">
-  <img src="https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/eat_XLB.gif" width="100" height="100" alt="鹿包">
+  <img src="https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/eat_XLB.gif" width="100" height="100" alt="鹿包">
 </p>
 
 <div align="center">
@@ -183,7 +183,7 @@ _✨ “鹿乃”主题机器人 ✨_
 > - [x] ~~可以拿小鹿包投喂鹿乃（草）~~
 
 ### ~~生吃鹿包~~效果预览：
-> **[~~点击此处以查看~~](https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/md_files/XLB_Game_Preview.md)**
+> **[~~点击此处以查看~~](https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/md_files/XLB_Game_Preview.md)**
 
 ---
 <br>
