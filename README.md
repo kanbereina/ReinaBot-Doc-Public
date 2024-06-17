@@ -1,4 +1,5 @@
 # 小桜帆（ReinaBot）2.0  
+## ~~⭐来都来了点个Star支持一下啊w~~
 ## 机器人简介  
 <p align="center">
   <img src="https://github.com/kanbereina/ReinaBot-Doc-Public/blob/main/doc/Mahoro.png" width="200" height="200" alt="小桜帆">
