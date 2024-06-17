@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/One.jpg" width="100" height="100" alt="鹿歌">
+  <img src="https://github.com/kanbereina/ReinaBot-Doc-Public/edit/main/doc/One.jpg" width="100" height="100" alt="鹿歌">
 </p>
 
 <div align="center">
@@ -15,6 +15,6 @@
 <br>
 
 ## 处理效果
-![音频转换效果预览](https://github.com/kanbereina/ReinaBot-2.0/blob/OBV11-NTQQBot/doc/AudioConverter_example.jpg)
+![音频转换效果预览](https://github.com/kanbereina/ReinaBot-Doc-Public/edit/main/doc/AudioConverter_example.jpg)
 
 ---
