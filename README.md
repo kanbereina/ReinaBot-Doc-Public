@@ -106,7 +106,7 @@ _✨ “鹿乃”主题机器人 ✨_
 > - [x] Twitter实时推送
 > - [x] Twitch直播推送
 > - [x] FanBox投稿推送
-> - [ ] YouTube投稿推送
+> - [x] YouTube投稿推送
 > - [ ] B站推送
 > - [x] 微博推送
 
